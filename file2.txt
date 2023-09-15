@@ -1,3 +1,8 @@
 riga nel file 2 
+<<<<<<< HEAD
 questa riga è stata aggiunta per il bugfix
 questa riga è stata aggiunta nel main dopo aver creato il ramo stile
+=======
+questa riga è stata aggiunta nel bugfix
+modifica al stile
+>>>>>>> stile
